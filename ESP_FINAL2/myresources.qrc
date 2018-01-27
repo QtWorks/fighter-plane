@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>plane.png</file>
+        <file>pillar.png</file>
+        <file>petrol_bubble.png</file>
+        <file>bullet.png</file>
+        <file>planeExplosion.png</file>
+        <file>Backgroundimage.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>planeExplosion.mp3</file>
+        <file>bulletFire.mp3</file>
+        <file>backgroundSound.mp3</file>
+        <file>fuelBubblePop.mp3</file>
+    </qresource>
+</RCC>
